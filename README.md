@@ -4,6 +4,7 @@ class Flower:
         self.name = name
         self.color = color
         self.price = price
+        self.quantity
 
 class Florist:
     def __init__(self):
